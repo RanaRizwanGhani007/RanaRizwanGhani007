@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RanaRizwanGhani007
+- 👋 Hi, I’m  Rana Rizwan Ghani
 - 👀 I’m interested in Computer Languages.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on ...
