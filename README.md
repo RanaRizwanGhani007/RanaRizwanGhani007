@@ -1,6 +1,9 @@
-- 👋 Hi, I’m  Rana Rizwan Ghani
+Hi there, I'm Rana Rizwan Ghani.
+I'm an Odoo Developer!
+
+
 - 👀 I’m interested in Computer Languages.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently Working in Odoo.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
